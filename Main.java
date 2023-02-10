@@ -1,3 +1,4 @@
+// 使用例及び解説：https://ns601023.hatenablog.com/entry/2021/02/17/184312
 import java.util.*;
 import java.io.*;
 import java.awt.*;
